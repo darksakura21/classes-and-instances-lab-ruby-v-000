@@ -2,4 +2,4 @@ def Person
 end
 
 adele_goldberg = Person.new
-ala_key = Person.new
+alan_kay = Person.new
